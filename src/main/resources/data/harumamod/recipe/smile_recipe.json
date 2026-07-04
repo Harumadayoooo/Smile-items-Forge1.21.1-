@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "YYY",
+    "BYB",
+    "YYY"
+  ],
+  "result": {
+    "count": 1,
+    "id": "harumamod:smile"
+  }
+}
